@@ -1,1 +1,1 @@
-# Salesforce-Project
+# Cosmetic Store Management
